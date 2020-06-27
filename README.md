@@ -1,6 +1,6 @@
 # Quasar App (shopping_list)
 
-A Quasar Framework app
+A Quasar Framework app para lsita de compras de supermercado
 
 ## Install the dependencies
 ```bash
